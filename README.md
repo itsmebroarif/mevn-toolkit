@@ -16,7 +16,7 @@ lokit bae dimari ! [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install && npm run server:site
 ```
 
-#LU KUDU BUKA DUA TERMINAL NIH DIMARI KUDU PERLU WAJIB POKONYA
+# LU KUDU BUKA DUA TERMINAL NIH DIMARI KUDU PERLU WAJIB POKONYA
 
 ### Jalanin Projectnya Pake Ini nih (client)
 ```sh
