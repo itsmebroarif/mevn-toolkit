@@ -2,11 +2,11 @@
 
 Template Ini Sejatinya Dibuat Oleh Gue Sendiri Supaya Orang Tuh Ngoding Vue Tinggal Clone Sama Install Tipis Tipis Aja
 
-## Server
+# Server
 
 Buat Sisi Server Bisa Pake (Connection.js) Yang Udah Include Didalem Pokonya Mah Lu Tinggal Pake Aja Deh
 
-## Customize configuration
+# Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
