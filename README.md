@@ -16,8 +16,14 @@ lokit bae dimari ! [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install && npm run server:site
 ```
 
-### Jalanin Projectnya Pake Ini nih
+#LU KUDU BUKA DUA TERMINAL NIH DIMARI KUDU PERLU WAJIB POKONYA
+
+### Jalanin Projectnya Pake Ini nih (client)
 ```sh
 npm run serve
 ```
 
+### Kalo Jalanin Project bakal (server) pake yang ini
+```sh
+node server
+```
