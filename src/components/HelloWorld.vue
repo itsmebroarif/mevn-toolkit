@@ -12,8 +12,7 @@ defineProps({
     <h1 class="green">{{ msg }}</h1>
     <h3>
       Web Kit For MEVN Developer <br>
-      <a target="_blank" href="https://github.com/itsmebroarif/Connection.js/blob/Main/server.js">Connection Js</a>  <br>
-      <a target="_blank" href="https://vuejs.org/">Vue Js 3</a>
+      <a target="_blank" href="https://github.com/itsmebroarif/mevn-toolkit.git">Download Now</a>  
     </h3>
   </div>
 </template>
