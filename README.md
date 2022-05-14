@@ -1,35 +1,23 @@
-# client
+# Client
 
-This template should help get you started developing with Vue 3 in Vite.
+Template Ini Sejatinya Dibuat Oleh Gue Sendiri Supaya Orang Tuh Ngoding Vue Tinggal Clone Sama Install Tipis Tipis Aja
 
-## Recommended IDE Setup
+## Server
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+Buat Sisi Server Bisa Pake (Connection.js) Yang Udah Include Didalem Pokonya Mah Lu Tinggal Pake Aja Deh
 
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Setup Client & Server Sidenya
 
 ```sh
-npm install
+npm install && npm run server:site
 ```
 
-### Compile and Hot-Reload for Development
-
+### Jalanin Projectnya Pake Ini nih
 ```sh
-npm run dev
+npm run serve
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
