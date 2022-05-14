@@ -6,9 +6,9 @@ Template Ini Sejatinya Dibuat Oleh Gue Sendiri Supaya Orang Tuh Ngoding Vue Ting
 
 Buat Sisi Server Bisa Pake (Connection.js) Yang Udah Include Didalem Pokonya Mah Lu Tinggal Pake Aja Deh
 
-# Customize configuration
+# Kostumisasi resmi dari vite 
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+lokit bae dimari ! [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Setup Client & Server Sidenya
 
