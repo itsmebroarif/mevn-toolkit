@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Web Kit For MEVN Developer <br>
+      Web Kit For Fullstack Developer <br>
       <a target="_blank" href="https://github.com/itsmebroarif/mevn-toolkit.git">Download Now</a>  
     </h3>
   </div>
