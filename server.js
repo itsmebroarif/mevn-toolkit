@@ -1,4 +1,4 @@
-// Jalanin dulu 'npm run server:site && node server'
+// Jalanin dulu 'npm run server:side && node server'
 
 // Sekarang Masuk Ke kodingan
 // panggil semua data yang sudah di install [mysql, express, ejs, body-parser, nodemon]
