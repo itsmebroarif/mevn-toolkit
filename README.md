@@ -13,7 +13,7 @@ lokit bae dimari ! [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Setup Client & Server Sidenya
 
 ```sh
-npm install && npm run server:site
+npm install && npm run server:side
 ```
 
 # LU KUDU BUKA DUA TERMINAL NIH DIMARI KUDU PERLU WAJIB POKONYA
